@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AttackSystem : MonoBehaviour
 {
-    public float Health = 100;
+    public float Health = 90;
     public float Damage = 5;
     // Start is called before the first frame update
     void Start()
